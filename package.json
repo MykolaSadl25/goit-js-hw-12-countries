@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/MykolaSadl25/goit-js-hw-12-countries/issues"
   },
-  "homepage": "https://github.com/MykolaSadl25/goit-js-hw-12-countries#readme",
+  "homepage": "https://MykolaSadl25.github.io/goit-js-hw-12-countries/",
   "devDependencies": {
     "@pnotify/core": "^5.2.0",
     "@pnotify/desktop": "^5.2.0",
